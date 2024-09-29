@@ -1,0 +1,4 @@
+ipykernel
+PyPDF2
+matplotlib
+matplotlib-inline
